@@ -10,7 +10,6 @@
 ![LogoGif](https://jp-github.oss-cn-shenzhen.aliyuncs.com/gif/logo/logoGif.gif)
 ***
 
-* 开发引擎：**Unity2019.3.0 f6**
-* HDRP 7.2.1
-* Visual Effect Graph
-* TimeLine
+系统要求：
+* Unity 2019.3.0或更新的版本
+* 64-bit destop platforms(Windows,macOS)
