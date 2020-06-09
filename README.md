@@ -10,7 +10,7 @@
 ![FaceGif](https://jp-github.oss-cn-shenzhen.aliyuncs.com/gif/logo/logoGif.gif)
 ***
 
-1. 引擎unity2019.3.0 f6
-2. HDRP 7.2.1
-3. Visual Effect Graph
-4. TimeLine
+* 引擎unity2019.3.0 f6
+* HDRP 7.2.1
+* Visual Effect Graph
+* TimeLine
